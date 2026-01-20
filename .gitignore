@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+
+# Environment definitions
+.env
+
+# Testing
+coverage/
+
+# Misc
+.DS_Store
+*.log
+npm-debug.log*

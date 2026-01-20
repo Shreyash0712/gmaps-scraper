@@ -1,0 +1,44 @@
+{
+  "name": "google-maps-embed-scraper",
+  "version": "1.0.2",
+  "description": "Convert Google Maps short URLs to embeddable iframe URLs without an API Key.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "google maps",
+    "scraper",
+    "embed",
+    "url",
+    "shortener",
+    "expand",
+    "iframe",
+    "no-api-key",
+    "google-maps-api",
+    "maps-embed",
+    "map-scraper",
+    "convert-url",
+    "location-parser"
+  ],
+  "author": "Shreyash Swami <shreyash.swami2476@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md"
+  ],
+  "devDependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shreyash0712/gmaps-scraper"
+  },
+  "bugs": {
+    "url": "https://github.com/Shreyash0712/gmaps-scraper/issues"
+  },
+  "homepage": "https://github.com/Shreyash0712/gmaps-scraper#readme"
+}

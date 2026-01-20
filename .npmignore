@@ -1,0 +1,6 @@
+# Ignore everything not in 'files' list in package.json (just to be safe)
+node_modules/
+server.js
+test.js
+.git/
+.gitignore
